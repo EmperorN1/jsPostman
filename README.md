@@ -23,6 +23,6 @@
 
 ![image](https://user-images.githubusercontent.com/88553862/234387241-7c80b26b-5750-4eb4-aa5b-5b8e26982f0d.png)
 
-3 - Выполняем запрос
+3 - Выполняем GET запрос /user
 
 ![image](https://user-images.githubusercontent.com/88553862/234387410-24befd8a-b725-47ef-92af-7d3fe5efc65c.png)
